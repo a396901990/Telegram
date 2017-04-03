@@ -11,9 +11,9 @@ package org.telegram.messenger;
 public class BuildVars {
     public static boolean DEBUG_VERSION = false;
     public static int BUILD_VERSION = 542;
-    public static int APP_ID = 0; //obtain your own APP_ID at https://core.telegram.org/api/obtaining_api_id
-    public static String APP_HASH = ""; //obtain your own APP_HASH at https://core.telegram.org/api/obtaining_api_id
-    public static String HOCKEY_APP_HASH = "your-hockeyapp-api-key-here";
+    public static int APP_ID = 62741; //obtain your own APP_ID at https://core.telegram.org/api/obtaining_api_id
+    public static String APP_HASH = "5a6b1c3e5b422a447384a904025e6757"; //obtain your own APP_HASH at https://core.telegram.org/api/obtaining_api_id
+    public static String HOCKEY_APP_HASH = "6805fcb4c9c34b5aa2b98cc947735b9d";
     public static String GCM_SENDER_ID = "760348033672";
     public static String SEND_LOGS_EMAIL = "email@gmail.com";
     public static String BING_SEARCH_KEY = ""; //obtain your own KEY at https://www.bing.com/dev/en-us/dev-center
